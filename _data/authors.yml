@@ -2,7 +2,6 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  # Replace <...> with your own (remove the < >)
   name:              Jack Gilmartin
   email:             jack.gilmartin77@gmail.com
 
@@ -24,14 +23,14 @@ author1:
       2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar.
-  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
-  # social:
+  # Comment/uncomment to show/hide. Rearrange to change the order in which they appear.
+  social:
     # twitter:         <username>
-    # github:          <username>
+    github:          ITSGameDevTeamY3
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
-    # facebook:        <username>
+    facebook:        DissonanceProject
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
