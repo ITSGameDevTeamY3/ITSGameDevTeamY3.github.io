@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
-author1:
+S00171013:
   name:              Jack Gilmartin
   email:             jack.gilmartin77@gmail.com
 
@@ -65,9 +65,56 @@ author1:
     # paypal:          <username>
 
 # Another author
-author2:
+s00172994:
   name:              David Brennan
   email:             davidwbrennan@hotmail.com
+  about:             |
+    David Brennan is a motivated, enthusiastic and creative game developer and designer. 
+    Having worked with platforms such as the Xbox One and Kinect to building custom engines using frameworks such 
+    as MonoGame, he is always eager to further and perfect things he has learned to deliver unforgettable 
+    experiences.
+    
+    David is currently studying for his BSc. in Games Development at Institute of Technology, Sligo. 
+    He is working with Unity, MonoGame and GameMaker: Studio, specializing in object-oriented languages and 
+    develops in C# and TypeScript.
+  picture:
+    path:            assets/img/user/david/avatar-128x128.jpg
+    srcset:
+      1x:            assets/img/user/david/avatar-128x128.jpg
+      2x:            assets/img/user/david/avatar-256x256.jpg
+  twitter:           Daithyi
+  github:            s00172994
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
+S00168347:
+  name:              Adrian Fearon
+  email:             fearonedm@outlook.com
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    Open `_data/authors.yml` to edit this text.
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
+
+  # Every author can have his/her own accent color and image.
+  # This will change the appearance of all pages of this author.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
+S00167922:
+  name:              Donnacha Fallon
+  email:             donnachafallon@gmail.com
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
