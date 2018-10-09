@@ -7,10 +7,10 @@ menu: true
 order: 1
 ---
 
-[Jack Gilmartin](/jack)
+[Jack Gilmartin](/jack/)
 
-[David Brennan](/david)
+[David Brennan](/david/)
 
-[Adrian Fearon](/adrian)
+[Adrian Fearon](/adrian/)
 
-[Donnacha Fallon](/donnacha)
+[Donnacha Fallon](/donnacha/)
