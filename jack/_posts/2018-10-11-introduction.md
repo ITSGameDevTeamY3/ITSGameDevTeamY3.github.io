@@ -33,9 +33,9 @@ By the end of May 2018, we had a solid concept of what our game would be.
 
 ## From Inception to Now
 
-Our first order of business was to come up with a name for our team. Initially we had decided on the name Occultist Games, over time however, we felt that we could come up with something better. After each of us proposed a potential name, we voted and decided upon the name ìKilling Spraoiî.
+Our first order of business was to come up with a name for our team. Initially we had decided on the name Occultist Games, over time however, we felt that we could come up with something better. After each of us proposed a potential name, we voted and decided upon the name ‚ÄúKilling Spraoi‚Äù.
 
-We also decided upon each memberís roles in the project early on. They are as follows:
+We also decided upon each member‚Äôs roles in the project early on. They are as follows:
 
 *   David    - Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
 *   Jack     - Programming, Narrative/Scenario, Environment/Level Design, Documentation
@@ -50,8 +50,15 @@ Over the Summer of 2018, our artists/designers David and Donnacha came up with a
 
 We are still creating concepts for both the protagonist and the antagonists, here are some examples:
 
+#### Protagonist
 
+To be added.
 
+#### Antagonists
+
+To be added.
+
+On August 29th, I wrote up a first draft for the game‚Äôs scenario and placed it onto Google Docs for the other members to see. We discussed this draft and decided upon changes and additions to make. By the 28th of September, we had the game‚Äôs story and setting finalised.
 
 ```js
 // Javascript code with syntax highlighting.
