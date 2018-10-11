@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: Introduction (2018-10-11)
 
 image: /assets/img/blog/example-content-ii.jpg
 canonical_url: https://pages-themes.github.io/architect/
@@ -12,10 +12,6 @@ Welcome to the blog dedicated to _Project Dissonance_, our final year project fo
 *   Jack Gilmartin
 *   Adrian Fearon
 *	Donnacha Fallon
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
 
 ## What is Project Dissonance?
 
@@ -37,126 +33,62 @@ Our first order of business was to come up with a name for our team. Initially w
 
 We also decided upon each member’s roles in the project early on. They are as follows:
 
-*   David    - Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
-*   Jack     - Programming, Narrative/Scenario, Environment/Level Design, Documentation
-*   Adrian   - Soundtrack, sound effects, FMOD functionality in Unity
-*	Donnacha - Character Design, Modelling, In-game Assets
+	David
+	: Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
+
+	Jack
+	: Programming, Narrative/Scenario, Environment/Level Design, Documentation
+
+	Adrian
+	: Soundtrack, sound effects, FMOD functionality in Unity
+
+	Donnacha
+	: Character Design, Modelling, In-game Assets
 
 Over the Summer of 2018, our artists/designers David and Donnacha came up with a lot of concepts for character designs as well as logos for both our team name and the game itself. The logos have since been finalised. The final designs can be seen below.
 
-![](assets/img/logos/team/Killing_Spraoi_Logo_Black.png)
+![](assets/img/logos/team/killing_spraoi_logo_black.png)
 
-![](assets/img/logos/game/Project_Dissonance_Logo_Textured_Black.png)
+![](assets/img/logos/game/project_dissonance_logo_textured_black.png)
 
 We are still creating concepts for both the protagonist and the antagonists, here are some examples:
 
-#### Protagonist
+#### Protagonist Concepts
 
-To be added.
+![] (assets/img/concept_art/david/protagonist_concept2_david.png)
 
-#### Antagonists
+![](assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png)
 
-To be added.
+#### Antagonist Concepts
+
+![](assets/img/concept_art/david/enemy_concept_david.png)
+
+![](assets/img/concept_art/donnacha/enemy_cyborg_arm_donnacha.jpg)
+
+![](assets/img/concept_art/donnacha/rough_wolf_sketches_donnacha.jpg)
+
+
 
 On August 29th, I wrote up a first draft for the game’s scenario and placed it onto Google Docs for the other members to see. We discussed this draft and decided upon changes and additions to make. By the 28th of September, we had the game’s story and setting finalised.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## This Past Week (8/10/18 - 14/10/18)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+On Tuesday the 9th of October, David got this blog up and running with the help of GitHub Pages and Jekyll. This, along with getting everyone on the team familiarised with making blog posts, has been the primary focus of this week.
 
-#### Header 4
+As for myself, my primary tasks to complete for this week are to:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Make this blog post (completed, if you can see this).
+*   Fill out and upload our project proposal form.
+*	Ensuring any concept art I may have is submitted and finalised.
 
-##### Header 5
+## Next Week (15/10/18 - 21/10/18)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+My primary tasks for the following week are to:
 
-###### Header 6
+*   Sketch a basic map layout (top-down perspective) and construct it with blocks in Unity.
+*   Create an enemy object and implement AI/Pathfinding for it.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+I think that about sums it up for my experience on the project so far. By next week we should be out of the concept phase and instead be deep into the code. Wish us luck!
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists
-
-Name
-: Godzilla
-
-Born
-: 1952
-
-Birthplace
-: Japan
-
-Color
-: Green
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
-```
-
-```
-The final element.
-```
+‘Til next time,
+Jack Gilmartin.
