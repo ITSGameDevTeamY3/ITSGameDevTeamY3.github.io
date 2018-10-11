@@ -33,17 +33,18 @@ Our first order of business was to come up with a name for our team. Initially w
 
 We also decided upon each member’s roles in the project early on. They are as follows:
 
-	David
-	: Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
+David
+: Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
 
-	Jack
-	: Programming, Narrative/Scenario, Environment/Level Design, Documentation
+Jack
+: Programming, Narrative/Scenario, Environment/Level Design, Project Blog
 
-	Adrian
-	: Soundtrack, sound effects, FMOD functionality in Unity
+Adrian
+: Soundtrack, sound effects, FMOD functionality in Unity
 
-	Donnacha
-	: Character Design, Modelling, In-game Assets
+Donnacha
+: Character Design, Modelling, In-game Assets
+
 
 Over the Summer of 2018, our artists/designers David and Donnacha came up with a lot of concepts for character designs as well as logos for both our team name and the game itself. The logos have since been finalised. The final designs can be seen below.
 
@@ -55,7 +56,7 @@ We are still creating concepts for both the protagonist and the antagonists, her
 
 #### Protagonist Concepts
 
-![] (assets/img/concept_art/david/protagonist_concept2_david.png)
+![](https://trello-attachments.s3.amazonaws.com/5b9b8b06bff0341c96417319/5b9b8d1169bc8e8349ee7ce6/8a5dfd7252acec2260805926ed1f87e9/Attack.png)
 
 ![](assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png)
 
@@ -87,6 +88,7 @@ My primary tasks for the following week are to:
 
 *   Sketch a basic map layout (top-down perspective) and construct it with blocks in Unity.
 *   Create an enemy object and implement AI/Pathfinding for it.
+
 
 I think that about sums it up for my experience on the project so far. By next week we should be out of the concept phase and instead be deep into the code. Wish us luck!
 
