@@ -64,6 +64,12 @@ S00171013:
     # stumbleupon:     <username>
     # paypal:          <username>
 
+  # David: You can change these values if you want, Jack.
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+
 # Another author
 s00172994:
   name:              David Brennan
