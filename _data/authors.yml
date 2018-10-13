@@ -8,19 +8,19 @@ S00171013:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I am a Games Development student currently studying my third year at IT Sligo. I have a keen interest in video games as a medium and would consider myself an aficionado of video game soundtracks (OSTs).
+    
+    Highly proficient in spelling and grammar from an early age, I am now focused on improving my programming and problem-solving skills both through coursework and during my free time. Known to take work seriously, I like to ensure it is done well and on-time. I Have a lot of experience with C# programming in GameMaker and MonoGame.I am Currently getting to grips with the Unity engine.
 
     Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            assets/img/user/jack/avatar-jack-128x128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            assets/img/user/jack/avatar-jack-128x128.jpg
+      2x:            assets/img/user/jack/avatar-jack-256x256.jpg
 
   # Social media icons in sidebar.
   # Comment/uncomment to show/hide. Rearrange to change the order in which they appear.
@@ -65,7 +65,7 @@ S00171013:
     # paypal:          <username>
 
   # David: You can change these values if you want, Jack.
-  accent_color:      '#268bd2'
+  accent_color:      '#F85200'
   accent_image:
     background:      '#202020'
     overlay:         false
