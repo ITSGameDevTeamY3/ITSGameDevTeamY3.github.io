@@ -8,11 +8,13 @@ S00171013:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a Games Development student currently studying my third year at IT Sligo. I have a keen interest in video games as a medium and would consider myself an aficionado of video game soundtracks (OSTs).
+    I am a Games Development student currently studying my third year at IT Sligo. 
+    I have a keen interest in video games as a medium and would consider myself an aficionado of video game soundtracks (OSTs).
     
-    Highly proficient in spelling and grammar from an early age, I am now focused on improving my programming and problem-solving skills both through coursework and during my free time. Known to take work seriously, I like to ensure it is done well and on-time. I Have a lot of experience with C# programming in GameMaker and MonoGame.I am Currently getting to grips with the Unity engine.
+    Highly proficient in spelling and grammar from an early age, I am now focused on improving my programming and problem-solving skills both through coursework and during my free time.
+    Known to take work seriously, I like to ensure it is done well and on-time. I Have a lot of experience with C# programming in GameMaker and MonoGame. 
+    I am currently getting to grips with the Unity engine.
 
-    Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section.
   picture:
@@ -26,7 +28,7 @@ S00171013:
   # Comment/uncomment to show/hide. Rearrange to change the order in which they appear.
   social:
     # twitter:         <username>
-    github:          ITSGameDevTeamY3
+    github:          S00171013
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml

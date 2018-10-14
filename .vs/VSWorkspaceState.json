@@ -7,10 +7,10 @@
     "\\assets\\img\\concept_art\\david",
     "\\assets\\img\\concept_art\\donnacha",
     "\\assets\\img\\user",
-    "\\assets\\img\\user\\david",
-    "\\example",
-    "\\example\\_posts"
+    "\\assets\\img\\user\\jack",
+    "\\jack",
+    "\\jack\\_posts"
   ],
-  "SelectedNode": "\\assets\\img\\user\\david\\avatar-256x256.jpg",
+  "SelectedNode": "\\_data\\authors.yml",
   "PreviewInSolutionExplorer": false
 }
