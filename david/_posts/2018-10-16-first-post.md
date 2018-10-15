@@ -27,15 +27,16 @@ We have sat down as a group and have collaborated in project management classes 
 
 - Done a ton of research into gameplay mechanics.
 - Wrote a segment on Jack's story synopsis for Project Dissonance.
-- I have created and designed this blog.
-- I have sketched out the first few concepts for the characters. 
+- Helped out formatting the project proposal.
+- I have set up and designed this blog.
+- I have sketched out the first few concepts for the characters.
 - I recently completed fully rendered 2D weapon designs.
 - Jack and I have worked closely on maintaining the Trello board for our team.
 
 ## What I Will Focus On This Week
 
 - Finishing character design & environmental concepts is my **immediate** concern right now.
-- Setup Unity scene and create code struture for a base player.
+- Setup Unity scene and create code structure for a base player.
 - Implement the code basis for _sight-jacking_.
 - Do a bit of research to brush up on 3D modelling.
 - Get into Maya 3D and perhaps take on a few test models to import to Unity.
