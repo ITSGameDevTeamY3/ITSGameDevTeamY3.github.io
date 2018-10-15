@@ -84,7 +84,7 @@ As for myself, my primary tasks to complete for this week are to:
 
 *   Make this blog post (completed, if you can see this).
 *   Fill out and upload our project proposal form.
-*	Ensuring any concept art I may have is submitted and finalised.
+*	  Ensuring any concept art I may have is submitted and finalised.
 
 ## Next Week (15/10/18 - 21/10/18)
 
