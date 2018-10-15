@@ -1,17 +1,17 @@
 ---
-layout: page
-title: Introduction (2018-10-11)
-
-image: /assets/img/blog/example-content-ii.jpg
-canonical_url: https://pages-themes.github.io/architect/
+layout: post
+title: Introduction
+description: >
+  Welcome to the blog dedicated to _Project Dissonance_, our final year project for our course (BSc. in Computing in Games Development).
+author: S00171013
 ---
 
-Welcome to the blog dedicated to _Project Dissonance_, our final year project for our course (BSc. in Computing in Games Development). This project is a team effort, our team members are:
+This project is a team effort, our team members are:
 
-*   David Brennan
-*   Jack Gilmartin
-*   Adrian Fearon
-*	Donnacha Fallon
+- [David Brennan](/david/)
+- [Jack Gilmartin](/jack/)
+- [Adrian Fearon](/adrian/)
+- [Donnacha Fallon](/donnacha/)
 
 ## What is Project Dissonance?
 
@@ -25,7 +25,7 @@ By the end of May 2018, we had a solid concept of what our game would be.
 
 ### **To put it simply:**
 
-**Project Dissonance is a third person stealth game with a post-apocalyptic cyberpunk setting developed on the Unity Engine. It will feature characters of an anthropomorphic design, brought to life with vibrant cel-shaded visuals.** 
+_Project Dissonance is a third person stealth game with a post-apocalyptic cyberpunk setting developed on the Unity Engine. It will feature characters of an anthropomorphic design, brought to life with vibrant cel-shaded visuals._
 
 ## From Inception to Now
 
@@ -34,39 +34,43 @@ Our first order of business was to come up with a name for our team. Initially w
 We also decided upon each member’s roles in the project early on. They are as follows:
 
 David
-: Programming, Character Design, Gameplay, Narrative/Scenario, Project Blog
+: Programming, Narrative/Scenario, Gameplay, Character Design, UI, Video
 
 Jack
-: Programming, Narrative/Scenario, Environment/Level Design, Project Blog
+: Programming, Narrative/Scenario, Engine, Environment/Level Design, AI, Project Blog
 
 Adrian
-: Soundtrack, sound effects, FMOD functionality in Unity
+: Audio Programming, Composing, Sound Design, UI/UX
 
 Donnacha
-: Character Design, Modelling, In-game Assets
+: Programming, Environment/Level Design, Character Design, Art, UI
 
 
 Over the Summer of 2018, our artists/designers David and Donnacha came up with a lot of concepts for character designs as well as logos for both our team name and the game itself. The logos have since been finalised. The final designs can be seen below.
 
-![](assets/img/logos/team/killing_spraoi_logo_black.png)
+![](/assets/img/logos/team/killing_spraoi_logo_black.png)
 
-![](assets/img/logos/game/project_dissonance_logo_textured_black.png)
+![](/assets/img/logos/game/project_dissonance_logo_inversion.png)
 
 We are still creating concepts for both the protagonist and the antagonists, here are some examples:
 
 #### Protagonist Concepts
 
-![](https://trello-attachments.s3.amazonaws.com/5b9b8b06bff0341c96417319/5b9b8d1169bc8e8349ee7ce6/8a5dfd7252acec2260805926ed1f87e9/Attack.png)
+![](/assets/img/concept_art/david/protagonist_concept_david.png)
 
-![](assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png)
+![](/assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png)
 
 #### Antagonist Concepts
 
-![](assets/img/concept_art/david/enemy_concept_david.png)
+![](/assets/img/concept_art/david/enemy_concept_david.png)
 
-![](assets/img/concept_art/donnacha/enemy_cyborg_arm_donnacha.jpg)
+![](/assets/img/concept_art/donnacha/enemy_cyborg_arm_donnacha.jpg)
 
-![](assets/img/concept_art/donnacha/rough_wolf_sketches_donnacha.jpg)
+![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha.jpg)
+
+![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg)
+
+![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_3.jpg)
 
 
 
@@ -92,4 +96,5 @@ My primary tasks for the following week are to:
 
 I think that about sums it up for my experience on the project so far. By next week we should be out of the concept phase and instead be deep into the code. Wish us luck!
 
-- Jack G.
+‘Til next time,
+Jack Gilmartin.
