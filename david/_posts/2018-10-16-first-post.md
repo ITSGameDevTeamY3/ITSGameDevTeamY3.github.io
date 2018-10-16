@@ -15,11 +15,11 @@ I remember Adrian and Jack stressed to me how important it was to get the balanc
 ### In the Past
 As Jack has detailed in his introduction post, in our first meeting we brainstormed the plan for our final project early.
 
-[Initial Brainstorm](assets/img/user/david/posts/first-brainstorm.jpg){:.lead}
+[Initial Brainstorm](/assets/img/user/david/posts/first-brainstorm.jpg){:.lead}
 This is an image taken from my phone of one of the first brainstorms we came up with for the project. We found a room in the C Block on campus, went in and let creativity take us by surprise. I bought whiteboard markers that I have somewhere at home in Mullingar since then, fun to look back on.
 {:.figure}
 
-[Project Management Class](assets/img/user/david/posts/proj-management-class.jpg){:.lead}
+[Project Management Class](/assets/img/user/david/posts/proj-management-class.jpg){:.lead}
 We have sat down as a group and have collaborated in project management classes to define what our goals for the project are. What takes priority and what we need to focus on. Lean-thinking.
 {:.figure}
 
