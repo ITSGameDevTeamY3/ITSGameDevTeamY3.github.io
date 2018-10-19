@@ -96,5 +96,4 @@ My primary tasks for the following week are to:
 
 I think that about sums it up for my experience on the project so far. By next week we should be out of the concept phase and instead be deep into the code. Wish us luck!
 
-‘Til next time,
-Jack Gilmartin.
+‘Til next time!
