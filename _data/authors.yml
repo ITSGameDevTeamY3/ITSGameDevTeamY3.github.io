@@ -104,21 +104,21 @@ S00168347:
   name:              Adrian Fearon
   email:             fearonedm@outlook.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                     Irish 21 year old based Music Producer and Coder from Cavan, who is super egar to engage with people and consently seeking to learn new skills.
+                     I study Games Development at IT Sligo.
 
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+                     Hi there, my name is Adrian Fearon and im the lead audio programmer and composer of the Project Dissonance team.
+                     
+  picture:           assets/img/user/adrian/photo_adrian.jpg
+  twitter:           Fearonz
+  github:            S00168347
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
-  accent_color:      '#268bd2'
+  accent_color:      '#800080'
   accent_image:
-    background:      '#202020'
-    overlay:         false
+    background:      '#800080'
+    overlay:         true
 
 S00167922:
   name:              Donnacha Fallon
