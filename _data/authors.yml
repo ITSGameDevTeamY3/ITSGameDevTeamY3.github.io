@@ -124,14 +124,14 @@ S00167922:
   name:              Donnacha Fallon
   email:             donnachafallon@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+    My name is Donnacha Fallon, I am a Games Development student in IT Sligo.
+    I have had a huge pasion for Art/Design since I was very young.
+    I am also a freelance artist in my spare time.  
+    
+  picture:           assets/img/user/donnacha/cvpic.png
+  instagram:         dfallon_art
+  linkedin:          donnacha-fallon
+  github:            S00167922
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
