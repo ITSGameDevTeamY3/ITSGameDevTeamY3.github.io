@@ -92,6 +92,7 @@ s00172994:
       2x:            assets/img/user/david/avatar-256x256.jpg
   twitter:           Daithyi
   github:            s00172994
+  linkedin:          david-brennan-daithy
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
@@ -104,11 +105,10 @@ S00168347:
   name:              Adrian Fearon
   email:             fearonedm@outlook.com
   about:             |
-                     Irish 21 year old based Music Producer and Coder from Cavan, who is super egar to engage with people and consently seeking to learn new skills.
-                     I study Games Development at IT Sligo.
+    Irish 21 year old based Music Producer and Coder from Cavan, who is super egar to engage with people and consently seeking to learn new skills.
+    I study Games Development at IT Sligo.
 
-                     Hi there, my name is Adrian Fearon and im the lead audio programmer and composer of the Project Dissonance team.
-                     
+    Hi there, my name is Adrian Fearon and im the lead audio programmer and composer of the Project Dissonance team.
   picture:           assets/img/user/adrian/photo_adrian.jpg
   twitter:           Fearonz
   github:            S00168347
