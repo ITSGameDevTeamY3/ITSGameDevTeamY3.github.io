@@ -73,7 +73,6 @@ We are still creating concepts for both the protagonist and the antagonists, her
 ![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_3.jpg)
 
 
-
 On August 29th, I wrote up a first draft for the game’s scenario and placed it onto Google Docs for the other members to see. We discussed this draft and decided upon changes and additions to make. By the 28th of September, we had the game’s story and setting finalised.
 
 ## This Past Week (8/10/18 - 14/10/18)
