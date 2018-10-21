@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Sound Starts Here
+title: Music for listening
 description: >
-  First blog post by Adrian Fearon, lead audio producer and engineer.
+  Title and start screen Audio design.
 author: S00168347
 ---
 
-## First Impressions
+Title and start screen Audio design.
+
+## Setting the Mood
 Since my last blog post i've begging to work on title screen audio from the music to the UI Sound FXs.
 While im still experamenting with UI design as it is farly new to me, though my team have set me in a direaction for it to sound "Digital/Glitchy" or "Rain World esc" ambiance noises which fits nicely with my theme and vibe of the music.
 Though i have successfully captured a title track that my team a very happy with that has its own mood, and ambience and though it is inspired by Rain World it doesnt sound like a clone just pick up in productiong elements are there like noise textures in the dorne sample i use in the background for the track which plays mostly out you can listen to it [here](https://clyp.it/4jxgxwlp).
