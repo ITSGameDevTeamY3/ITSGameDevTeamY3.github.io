@@ -48,29 +48,43 @@ Donnacha
 
 Over the Summer of 2018, our artists/designers David and Donnacha came up with a lot of concepts for character designs as well as logos for both our team name and the game itself. The logos have since been finalised. The final designs can be seen below.
 
-![](/assets/img/logos/team/killing_spraoi_logo_black.png)
+![Donnacha's Team Logo](/assets/img/logos/team/killing_spraoi_logo_black_donnacha.png){:.lead}
+The team logo that Donnacha has created for us.
+{:.figure}
 
-![](/assets/img/logos/game/project_dissonance_logo_inversion.png)
+![David's Game Logo](/assets/img/logos/game/project_dissonance_logo_david_inversion.png){:.lead}
+The logo that David has created for the game.
+{:.figure}
 
 We are still creating concepts for both the protagonist and the antagonists, here are some examples:
 
 #### Protagonist Concepts
 
-![](/assets/img/concept_art/david/protagonist_concept_david.png)
+![David's Initial Protagonist Design](/assets/img/concept_art/david/protagonist_concept_david.png){:.lead}
+An initial design for the protagonist by David.
+{:.figure}
 
-![](/assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png)
+![Donnacha's Protagonist Concept](/assets/img/concept_art/donnacha/protagonist_head_concept_donnacha.png){:.lead}
+Another concept for the protagonist created by Donnacha.
+{:.figure}
 
 #### Antagonist Concepts
 
-![](/assets/img/concept_art/david/enemy_concept_david.png)
+![David's Early Enemy Concept](/assets/img/concept_art/david/enemy_concept_david.png){:.lead}
+An early enemy sketch by David.
+{:.figure}
 
-![](/assets/img/concept_art/donnacha/enemy_cyborg_arm_donnacha.jpg)
+![Donnacha's Cyborg Arm Enemy Design](/assets/img/concept_art/donnacha/enemy_cyborg_arm_donnacha.jpg){:.lead}
+An initial enemy design by Donnacha.
+{:.figure}
 
-![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha.jpg)
+![Donnacha's Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha.jpg){:.lead}
+Donnacha's design for the helmets worn by the enemies.
+{:.figure}
 
-![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg)
-
-![](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_3.jpg)
+![Donnacha's Second Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg){:.lead}
+Another helmet design by Donnacha.
+{:.figure}
 
 
 On August 29th, I wrote up a first draft for the game’s scenario and placed it onto Google Docs for the other members to see. We discussed this draft and decided upon changes and additions to make. By the 28th of September, we had the game’s story and setting finalised.
