@@ -82,6 +82,10 @@ An initial enemy design by Donnacha.
 Donnacha's design for the helmets worn by the enemies.
 {:.figure}
 
+![Donnacha's Second Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg){:.lead}
+A second helmet design by Donnacha.
+{:.figure}
+
 
 On August 29th, I wrote up a first draft for the game’s scenario and placed it onto Google Docs for the other members to see. We discussed this draft and decided upon changes and additions to make. By the 28th of September, we had the game’s story and setting finalised.
 
