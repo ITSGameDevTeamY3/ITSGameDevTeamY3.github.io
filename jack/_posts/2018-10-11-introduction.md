@@ -78,12 +78,8 @@ An early enemy sketch by David.
 An initial enemy design by Donnacha.
 {:.figure}
 
-![Donnacha's Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha.jpg){:.lead}
+![Donnacha's Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg){:.lead}
 Donnacha's design for the helmets worn by the enemies.
-{:.figure}
-
-![Donnacha's Second Enemy Helmet Concept](/assets/img/concept_art/donnacha/enemy_helmet_concept_donnacha_2.jpg){:.lead}
-Another helmet design by Donnacha.
 {:.figure}
 
 
