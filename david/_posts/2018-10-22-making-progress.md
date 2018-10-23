@@ -20,7 +20,8 @@ I wanted to communicate an expression of frustration and sadness in this charact
 his eyes, for overall balance but also to show to the player that he is the good guy. (_or is he?_)
 
 ![Main Character Design](/assets/img/concept_art/david/protagonist_design_david.png){:.lead}
-A contraption in this guy's robotic arm stores a grappeling hook.{:.figure}
+A contraption in this guy's robotic arm stores a grappeling hook.
+{:.figure}
 
 ## Environment Concepts
 As mentioned above, I felt compelled to draw a quick sketch of Jack's vision. Hopefully I have encapsulated it well enough 
@@ -31,7 +32,8 @@ environment yet however I will note the time of day is important here. I will di
 ![Environment Concept](/assets/img/concept_art/david/environment_concept_david.jpg){:.lead}
 I used real-life references for the bridge which is subject to change, the military base is entirely concept, 
 it's main area should be expanded to something more reminiscent of a camp as in Jack's concepts. 
-I do like getting a glimpse of its structure here however.{:.figure}
+I do like getting a glimpse of its structure here however.
+{:.figure}
 
 ## First Group Session
 So we all got together last Saturday for our first group work session and got the computer lab open (D2039). 
@@ -39,16 +41,20 @@ All of us a bit wrecked from the busy week. We pulled through in the end getting
 The College closes at **5PM** on a Saturday so this is good to note the next time so that we all arrive earlier.
 
 ![Group Overall Shot](/assets/img/user/david/posts/group-overall-shot.jpg){:.lead}
-I used the projector to help Donnacha and Adrian with the blog.{:.figure}
+I used the projector to help Donnacha and Adrian with the blog.
+{:.figure}
 
 ![Group Close Up Shot](/assets/img/user/david/posts/group-up-close-shot.jpg){:.lead}
-Adrian is seen here working hard on UI and Menu sounds.{:.figure}
+Adrian is seen here working hard on UI and Menu sounds.
+{:.figure}
 
 ![Group Work Jack](/assets/img/user/david/posts/group-jack-atwork.jpg){:.lead}
-Jack getting the foundations of our level done in Unity.{:.figure}
+Jack getting the foundations of our level done in Unity.
+{:.figure}
 
 ![Group Work Donnacha](/assets/img/user/david/posts/group-donnacha-atwork.jpg){:.lead}
-Donnacha whips up some props for use in Jack's level.{:.figure}
+Donnacha whips up some props for use in Jack's level.
+{:.figure}
 
 ## This Week
 - I finalized the main character's design.
