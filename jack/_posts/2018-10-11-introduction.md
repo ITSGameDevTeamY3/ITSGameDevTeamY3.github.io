@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entry 01 - Introduction
+title: Entry 01 — Introduction
 description: >
   Welcome to the blog dedicated to _Project Dissonance_, our final year project for our course (BSc. in Computing in Games Development).
 author: S00171013
