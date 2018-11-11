@@ -16,7 +16,7 @@ The first challenge I came across has made me aware of the issues that can occur
  two different versions of Unity. When I added the NavMesh Components to the project at home, I installed
  the "2018.2" version since my Unity editor was "2018.2.9f1". Upon opening the project at the IT,
  the components were incompatible as the Unity editor at the college was version "2018.1.6f1" 
- and such would only support the "2018.1" NavMesh Components.
+ and as such would only support the "2018.1" NavMesh Components.
 
 Due to a lack of admin rights, I am unable to update the Unity editor at college to match my home version.
  To rectify the compatibility I removed the ".2" components and replaced them with their ".1" counterpart.
@@ -50,8 +50,6 @@ So far, I have my test enemy patrolling a number of specified "Patrol Points", a
  of their pause in seconds can be changed in the Unity Inspector. I've implemented a simple boolean method that takes a number of seconds passed in and returns true when
  that amount of time has passed. I've placed this in a "TimeManager" class that can be re-used whenever it is needed. It will see much use, I feel, as time is a major 
  element in game programming.
-
-![Patrol](/assets/video/jack/patrol.webm)
 
 As a test for the enemy's pathfinding, I've implemented a script that sends them to any location that you have clicked on in the scene, assuming you clicked on an object.
 This is to simulate the enemy investigating a disturbance (e.g. a noise or a glimpse of the player from afar.), the click will be replaced by something more natural later on.
