@@ -64,7 +64,7 @@ This week, I want to improve the enemy so that it:
 *  Avoids crashing into obstacles and going berserk.
 *  Looks around its surroundings naturally at each patrol point.
 *  Turns naturally to face the source of a disturbance before moving toward it.
-*  Looks around it's surroundings at a source of disturbance before moving back to its patrol area.
+*  Looks around its surroundings at a source of disturbance before moving back to its patrol area.
 
 Hopefully the enemy behaves a little more realistically come next week. Wish me luck!
 

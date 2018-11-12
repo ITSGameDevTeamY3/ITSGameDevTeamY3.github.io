@@ -10,5 +10,5 @@ slug: jack
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Here is where I recount my experience and progress throughout the development of _Project Dissonance_.'
+  Here is where I recount my experiences and progress throughout the development of _Project Dissonance_.
 ---
