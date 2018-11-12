@@ -40,7 +40,7 @@ As you may have noticed, the color of the liquid inside the syringe matches that
 
 ## Enemy Concepts
 
-I interpreted Donnacha's enemy designs with my own twist, so far nothing in full render. I do have sketches done however of how I expect the enemies to look in the game. The **PAC** (_Pan-Artic Coalition_) a wolf army of biomechanically enhanced soldiers heavily inspired by the antagonists of the **Killzone** series, the _Helghast Army_ and the faction of the same name in **Battlefield 2142**. 
+I interpreted Donnacha's enemy designs with my own twist, so far nothing in full render. I do have sketches done however of how I expect the enemies to look in the game. The **PAC** (_Pan-Arctic Coalition_) is a wolf army of biomechanically enhanced soldiers. They are heavily inspired by the antagonists of the **Killzone** series, the _Helghast Army_ and the faction of the same name in **Battlefield 2142**'s _Pan-Asian Coalition_. 
 
 ![Initial Enemy Look](/assets/img/concept_art/david/enemy-helmet.jpg){:.lead}
 I felt it was important to give the enemies a striking look with sharp features, making it difficult to distinguish whether
