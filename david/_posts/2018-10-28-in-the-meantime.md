@@ -2,7 +2,7 @@
 layout: post
 title: In The Meantime
 description: >
-  Time to get back to bo-... I mean, Project Dissonance.
+  It's time to get back to bom-... I mean, Project Dissonance.
 author: s00172994
 ---
 
