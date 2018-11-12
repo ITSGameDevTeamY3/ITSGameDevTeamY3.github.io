@@ -11,18 +11,19 @@ The pressure this year is _immense_ compared to last year. I found myself feelin
 than what we are given now. It's interesting how much pressure can have an affect on your morale.
 
 ## Before The Midterm
-I can conclude that we have done excellent work in bringing our minds together as a team and coming up with universe 
-we can call our own. I have confidence that we know exactly what we want to create and an experience to deliver. I can safely say we
-are focused and are pushing our creativity in the right direction. Everything is coming together in my head, equally from each team member.
-There is a chance with enough time and effort that we can surpass any of our expectations.
+I can conclude that we have done excellent work in bringing our minds together as a team and coming up with a universe 
+we can call our own. I have confidence that we know exactly what we want to create and the experience we wish to deliver. 
+
+I am happy that we are focused and are pushing our creativity in the right direction. Everything is coming together for me in my head, I am sure it is equally the same from each team member.
+There is a high chance that with enough time and effort we can surpass any of our expectations.
 
 ## Dissonance Brawl
 Before our midterm break began, we were landed with another side project to do as an assignment for two of our modules. 
 This will be tough to manage however we decided it would be a good idea to combine both projects in some way to ease the 
-amount of work required. This took the form of _Dissonance Brawl_, a smash game in vain to Nintendo's **Super Smash Bros.**
+amount of work required. This took the form of _Dissonance Brawl_, a smash game in vain to Nintendo's **Super Smash Bros.** in our own universe.
 
 This way we can use our assets for both our games!
-I quickly redesigned our logos and we now have a smash counterpart to our Project Dissonance series of sorts.
+I quickly redesigned our logos and we now have a smash counterpart to our Project Dissonance universe of sorts.
 
 ![Project Dissonance Logo](/assets/img/concept_art/david/Project_Dissonance_Logo_Textured_Final.png
 ){:.lead}
@@ -31,6 +32,7 @@ The main title, now with a cleaner look in frost blue to help make the wolf head
 
 ![Dissonance Brawl Logo](/assets/img/concept_art/david/Project_Dissonance_Brawl_Logo.png){:.lead}
 This version has an opposite blood red variant with a touch of pink. The brawl text is brushed below in an oriental touch.
+(The final version will not have the 'project' text.)
 {:.figure}
 
 ## After The Midterm
