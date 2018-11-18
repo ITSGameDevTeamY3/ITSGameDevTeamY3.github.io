@@ -57,7 +57,7 @@ I wanted to illustrate the goggles being the primary trademark of the enemy. Eac
 Upon more concept work, I wanted to give the wolves a more oriental look so I experimented a little, taking inspiration from anatomy designs in _Lord Shen's wolf army_ from **Kung Fu Panda 2**.
 {:.figure}
 
-## What I Will Focus Until Our Presentation
+## What I Will Focus On Until Our Presentation
 
 - Model the player character and potentially more characters if possible.
 - Give the player model basic animations.
