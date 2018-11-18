@@ -2,7 +2,7 @@
 layout: post
 title: Finalized Designs
 description: >
-  Concept and designs out of the way, it's time for some code.
+  Concept and designs out of the way, it's time for some modelling.
 image: /assets/img/user/david/posts/side-by-side.jpg
 author: s00172994
 ---
