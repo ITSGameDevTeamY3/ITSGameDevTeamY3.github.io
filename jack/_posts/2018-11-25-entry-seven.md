@@ -2,9 +2,11 @@
 layout: post
 title: Entry 07 — Revamping the Enemy
 description: >
- A quick summary of how I'm faring with my new enemy script. As well as some other bits and pieces.
+ A quick summary of how I'm faring with my new enemy script, as well as some other bits and pieces.
 author: S00171013
 ---
+
+When I wasn't fighting a cold this week, I made some headway on improving the Enemy's components and overall structure.
 
 ## Progress on the Enemy Script
 
@@ -63,7 +65,7 @@ V - Fix/un-fix camera
 Aside from that, I'm also adding invisible colliders to the scene that will determine where SFX will play in the level. At the moment, I'm thinking of the best way to approach designating certain floors
  as "snow" or "rock" so that the appropriate footstep SFX is played when the player or an enemy steps on them. An example of an SFX collider is this Wind Whistle Zone I've added here:
 
-![Wind Whistle Zone](/assets/img/concept_art/jack/screenshots/sfx_collider_view.png){:.lead}
+![Wind Whistle Zone](/assets/img/concept_art/jack/screenshots/sfx_collider_example.png){:.lead}
 If the player is within this green box outline, they should hear the wind whistling as you might if you were scaling a mountain. 
 {:.figure}
 
