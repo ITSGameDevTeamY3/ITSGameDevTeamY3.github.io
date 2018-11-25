@@ -44,6 +44,8 @@ the camera next time.
 
 I set the opacity of the image planes to a value of _0.4_ to help model over them.
 
+![Autodesk Maya Image Planes](/assets/img/user/david/posts/protagonist-image-planes.jpg)
+
 ![Start Of Head](/assets/img/user/david/posts/protagonist-head-start.png){:.lead}
 Whenever I need to refer to the sizes of the player, I use the image planes I created.
 {:.figure}
