@@ -41,7 +41,7 @@ The existing "Patrol" is now dependent on this EnemyController, and it works wel
 
 ## Miscellaneous
 
-Early on in the week, Adrian and I worked on getting FMOD (SFX software) functioning on our project. We were successful in getting sounds to play in-game with [FMOD](https://en.wikipedia.org/wiki/FMOD).
+Early on in the week, Adrian and I worked on getting [FMOD](https://en.wikipedia.org/wiki/FMOD) (SFX software) functioning on our project. We were successful in getting sounds to play in-game with FMOD.
  The only drawback is that FMOD needs a .fspro (FMOD project) file to reference in order for the sounds to play. For the sake of ease, we've decided to each store the project file in "C:\temp" so that
  we wouldn't need to change the project path in the Unity editor every time. Unfortunately, since we can't commit an FMOD project to GitHub, Adrian will have to give his project file to me whenever he
  updates it. It's a pain, but at least we've confirmed that the sounds play in-game just fine as long as we have the file referenced.
