@@ -2,7 +2,7 @@
 layout: post
 title: Entry 09 — Aftermath
 description: >
-A quick recap of the week of our project 300 presentation.
+ A quick recap of the week of our project 300 presentation.
 author: S00171013
 ---
 
