@@ -2,7 +2,7 @@
 layout: post
 title: Entry 11 — Work it Out
 description: >
- A note on the forward steps we've taken for Project D.
+ A note on the steps forward we've taken for Project D.
 author: S00171013
 ---
 
@@ -13,16 +13,16 @@ the long-standing phase issue that's been plaguing my test enemy. Now I can fina
 
 As I mentioned last week, we planned to create a new repo for Project D and we have done so, in a way. What we've done
 is empty out our existing repo completely and add a new blank Unity project to the repo. We each still have a copy of 
-our prototype version on our PCs, which I've dubbed _Proto-Dissonance_. We can now add only what we want from Proto-D to our new
+the prototype version on our PCs, which I've dubbed _Proto-Dissonance_. We can now add only what we want from Proto-D to our new
 project. This can help us ensure our workspace remains uncluttered. (The amount of folders and files got a little out of hand
 during the week of our presentation.)
 
-As part of our new start in regards to the Unity project, we've also transitioned over to using GitKraken for Project D. This
+As part of our new start in regards to the Unity project, we've also transitioned over to using _GitKraken_ for Project D. This
 new Git client should be a lot easier to work with than GitHub Desktop was, with it we can get a good overview of the project's
 commit history at a glance. It also seems to have a much better diff viewer than Desktop. With GitKraken and our new knowledge
 of how Git works with the .gitignore file, we shouldn't run into any more major Git issues. Hopefully! 
 
-![GitKraken](/assets/img/concept_art/jack/semester_two/mistake.png){:.lead}
+![GitKraken](/assets/img/concept_art/jack/semester_two/gitkraken.png){:.lead}
 A new Git client should help us on our way.
 {:.figure}
 
@@ -36,7 +36,7 @@ the new phase. What I soon realised was that the previous phase never became syn
 two variables not being the same and therefore update the current phase constantly, which caused a lot of unwanted behaviour. Fixing this was
 a simple enough affair:
 
-![Syncing Phases](/assets/img/concept_art/jack/semester_two/mistake.png){:.lead}
+![Syncing Phases](/assets/img/concept_art/jack/semester_two/phase_fix.png){:.lead}
 Syncing the phases here has fixed the issue I mentioned in [Entry 09](https://itsgamedevteamy3.github.io/jack/2018-12-09-entry-nine/)).
 {:.figure}
 
@@ -46,7 +46,7 @@ surveying. To achieve this I gave the enemy invisible objects I called _Survey P
 with their weapon's flashlight. The idea being that they could turn and spot the unsuspecting player. I hard-coded a simple test where the enemy
 would look left and then right. 
 
-![Survey Points](/assets/img/concept_art/jack/semester_two/mistake.png){:.lead}
+![Survey Points](/assets/img/concept_art/jack/semester_two/survey.png){:.lead}
 With these Survey Points (Purple orbs with yellow question marks), I might be able to implement some interesting behaviour. 
 {:.figure}
 
