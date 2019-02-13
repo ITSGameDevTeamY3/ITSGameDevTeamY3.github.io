@@ -5,7 +5,7 @@ description: >
   This is my third entry for Project Dissonance.
 author: S00167922
 ---
-##Third Phase of Props
+## Third Phase of Props
 
 Here are some more props I had made over the Christmas Holidays.
 
@@ -23,4 +23,4 @@ Here are some more props I had made over the Christmas Holidays.
 ![Stairs for Catwalk](/assets/img/user/donnacha/stairsCatwalk.PNG)
 ![Oil Tank](/assets/img/user/donnacha/oilTank.PNG)
 
-##End of Entry 3
+## End of Entry 3
